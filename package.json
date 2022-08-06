@@ -1,0 +1,11 @@
+{
+  "name": "colorlufy",
+  "version": "1.0.0",
+  "description": "this npm package is used to color the text in the console in a lufy way",
+  "main": "index.js",
+  "author": "Ghayth Ben Abid",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
