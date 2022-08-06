@@ -3,9 +3,19 @@
   "version": "1.0.0",
   "description": "this npm package is used to color the text in the console in a lufy way",
   "main": "index.js",
-  "author": "Ghayth Ben Abid",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GhaythBenAbid/colorlufy.git"
+  },
+  "author": "Ghayth Ben Abid <ghaythbenabid0@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.7.4"
-  }
+  },
+  "keywords": [
+    "color",
+    "lufy",
+    "console",
+    "github"
+  ]
 }
